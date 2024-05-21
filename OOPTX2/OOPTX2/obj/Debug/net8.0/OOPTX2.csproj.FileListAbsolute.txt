@@ -1,0 +1,14 @@
+D:\C#\OOPTX2\OOPTX2\bin\Debug\net8.0\OOPTX2.exe
+D:\C#\OOPTX2\OOPTX2\bin\Debug\net8.0\OOPTX2.deps.json
+D:\C#\OOPTX2\OOPTX2\bin\Debug\net8.0\OOPTX2.runtimeconfig.json
+D:\C#\OOPTX2\OOPTX2\bin\Debug\net8.0\OOPTX2.dll
+D:\C#\OOPTX2\OOPTX2\bin\Debug\net8.0\OOPTX2.pdb
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.AssemblyInfoInputs.cache
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.AssemblyInfo.cs
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.csproj.CoreCompileInputs.cache
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.dll
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\refint\OOPTX2.dll
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.pdb
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\OOPTX2.genruntimeconfig.cache
+D:\C#\OOPTX2\OOPTX2\obj\Debug\net8.0\ref\OOPTX2.dll
